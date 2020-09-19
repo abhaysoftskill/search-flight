@@ -1,0 +1,41 @@
+@import '../../theme/variables';
+
+.detailsBox{
+    background-color: #fff;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 15px;
+
+}
+
+.flight-price-top {
+    font-size: 14px;
+    color: $theme-font;
+    i {
+        margin-right: 2px;
+    }
+}
+.flight-price {
+    color: $theme-font;
+    font-size: 18px;
+    i {
+        margin-right: 2px;
+    }
+}
+.flight-detail-top {
+    opacity: 0.6;
+    color: $black;
+    font-size: 14px;
+    font-weight: bold;
+}
+.flight-detail-bottom {
+    color: $theme-grey;
+    font-size: 11px;
+}
+.flight-name-holder {
+    padding: 0px;
+}
+.flight-name {
+    color: $theme-grey;
+    font-weight: 400;
+}

@@ -1,0 +1,26 @@
+@import "./variables";
+
+.mb20 {
+    margin-bottom: 20px;
+}
+.ptop20 {
+    padding-top: 20px;
+}
+.ptop30 {
+    padding-top: 30px;
+}
+.alignCenter{
+    text-align: center;
+}
+.flight-logo {
+    width: 50px;
+}
+.middleCenter {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.margin-0{
+    margin: 0 !important;
+}

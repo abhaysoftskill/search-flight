@@ -1,0 +1,10 @@
+@import '../../theme/main.scss';
+.header {
+	width: 100%;
+	padding: 10px 15px;
+	background-color: $white;
+	color: $theme-font;
+	margin-bottom: 10px;
+    font-size: 1.6rem;
+    border-bottom: 1px solid $theme-font;
+}
